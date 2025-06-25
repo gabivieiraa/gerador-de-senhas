@@ -70,6 +70,15 @@ body{
     font-family: var(--roboto-mono);
     font-size: 28px;
 }
+.botao-um{
+    width: 16%;
+}
+.botao-dois{
+    width: 16%;
+}
+.botao-tres{
+    width: 16%;
+}
 
 .parametro-senha__titulo{
     font-size:24px;
